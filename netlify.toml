@@ -2,7 +2,6 @@
 publish = "public"
 command = "hugo --theme=PaperMod --gc --minify"
 
-[context.production.environment]
+[build.environment]
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
