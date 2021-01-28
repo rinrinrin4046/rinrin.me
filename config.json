@@ -1,0 +1,24 @@
+{
+  "baseURL": "https://rinrin.me/",
+  "languageCode": "ja",
+  "DefaultContentLanguage": "ja",
+  "title": "rinrin.me",
+  "theme": "PaperMod",
+
+  "params": {
+    "ShowToc": true,
+    "TocOpen": true,
+    "ShowPostNavLinks": true,
+
+    "homeInfoParams": {
+      "Title": "rinrin.me",
+      "Content": "雑記"
+    },
+
+    "socialIcons": [
+      { "name": "twitter", "url": "https://twitter.com/rinrinrin4046" },
+      { "name": "github", "url": "https://github.com/rinrinrin2002" },
+      { "name": "rss", "url": "index.xml" }
+    ]
+  }
+}
