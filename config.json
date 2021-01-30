@@ -7,7 +7,7 @@
 
   "menu": {
     "main": [
-      { "name": "Archive", "url": "archives" },
+      { "name": "Archives", "url": "archives" },
       { "name": "Categories", "url": "categories" }
     ]
   },
