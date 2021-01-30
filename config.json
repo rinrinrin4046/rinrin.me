@@ -5,6 +5,13 @@
   "title": "rinrin.me",
   "theme": "PaperMod",
 
+  "menu": {
+    "main": [
+      { "name": "Archive", "url": "archives" },
+      { "name": "Categories", "url": "categories" }
+    ]
+  },
+
   "params": {
     "ShowToc": true,
     "TocOpen": true,
