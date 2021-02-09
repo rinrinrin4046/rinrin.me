@@ -1,7 +1,8 @@
 ---
 title: "最近のmacOSで古いオーディオインターフェースが使えない時"
 date: 2021-02-09T14:34:03+09:00
-draft: true
+draft: false
+categories: ["macOS"]
 ---
 
 以前 macOS High Sierra にて、Roland の UA-25EX を使おうと思った際にハマったのでメモ。
