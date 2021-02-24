@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/rinrinrin4046
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rinrin.me
+  * I am rinrinrin4046 (https://keybase.io/rinrinrin4046) on keybase.
+  * I have a public key with fingerprint 8724 BEBD 5094 28BD A23D  A9E1 BEC0 04DE E762 0DD6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f0e5c7e1dc63108066125e579a242647f9a93739e05f299116d22bc31163a2400a",
+      "fingerprint": "8724bebd509428bda23da9e1bec004dee7620dd6",
+      "host": "keybase.io",
+      "key_id": "bec004dee7620dd6",
+      "kid": "010136c6692708d78a766b3c6b0c1847fcf0bb9c14219e96b4391888d6ef682bc82c0a",
+      "uid": "3566c0b00db6017a1b826b14f0c0f319",
+      "username": "rinrinrin4046"
+    },
+    "service": {
+      "hostname": "rinrin.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1614130057,
+  "expire_in": 157680000,
+  "prev": "24b8d65a36cc9191eacf65aa1beafeecdda03bb3f310322bc4d1a9ee7bc69a31",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJ/TFVVHH/IA4LxwElMqteqK+BaDzjn3vvOvRdwEUNds6zEYqTwuOfe
+8+AJvPt4P/gpRhT+ws2FrBkjTRZgQj9IEt0MkxWQ4JDZaCEDAkVBHCGBkis7j/KP
+ts7Ods73ez7fz/l8vud8b/DVBfl0fqcfvYkNQz59F+s8uixzy4EyBmtqCRNfxuSS
+lYXkqcTltuTaVCaeAZAFVkDMikCgqiAOAhEgBFkzMQuSzPIs4gWrJEucwEkEmK2s
+JEGIVJbFCkc3HIUAIDMmxmqzZxOnw2mzuymtKLA8Jlg1A4lnRazKLKfKEoGYKADw
+KiECYoGqIlqYo7m8FVQcll0k1qbRHA0sK/L+B/9IN4AcUhCSWAGIqiDKAkKYUxAG
+ChSpZsUKMJYUyLNQIhLCPCdBURRVRKxIpOpFVlnR7Vmh48wIKQADoGIEoCBDLLII
+Q94KFGDloOQFuojTLucTiqYm/5k84BFTbmLoUaFNId7ueu38BxZL9ybG4dTcmqLl
+0XSO2+1wxXvL3CUOL66IYMu/DBZss6u0k7SikDhdNs3OxEOKVNw2LyVEkIccAGbB
+xJBih81JLDYvwiwgEdDhvYcUUkrafWrVLNMWKRKUIJEVKw2pLyJbCVFUVQYcxhz1
+BjjvY/IqpO9DBKwgSeYg4/VUYNeYeJaSuuVsyumyZdtlt8dJmPKuizv1Op8gnb/f
+Ku8X0wUFrn708T6eC31YNnKsgh88HbBLkZWGpCyH9b6jYrQrOq0is3bNfMLX/uGp
+H3i+qjGF/vJq/VJdf8/Lz+z0Xf7hvfWVxzNi9nfMtJ3WJZYm+H16Q6zYE1cX1fPA
+fi0smhhLS3NTjo5NtbqC/0g/s87vgPj7b/bozoKkt9vPdsN7Yefy6iOu548fOhXr
+c2S+5VhD4vLMtpymo1vD36keGtp9Vrr3TXLGt9YwJqRwbLoqavsr7z6xdKLWldpi
+6ELXskOuDLx/29g0WGBMTYmYrPdkHjT2PYz7smBYn7vKErzwIdZe+7N8i353QtA+
+x9U3FgMcE8X+k3cib9YlfV6VnDbeGn5uR/L12XKjbngSm9fkViVeOVNTuxcY7vTp
+Bn41NDcMw9AHiwlaa2PEhcA4e9/zxws3XW1srtmMWtr3asLA+rI2LcAoRjhPSe0v
+vRl04LapZ4P+i7TIwB/f+qt4W/rB8zwvz898NpPxya3tSSkxkc7GF7BvauD0c50b
+UeJY6ZE+j2skmXlqvGz5ZJuxvOPG5Z+6tpzIiO7f44m6357vO2fpCL6r7254Ojjk
+krlSW5cV/OzQxNqSja8Tg/3Q5e7NYZHVuzYkx/wsDkX1r328N3V26a7fYuVhf8dC
+Uvn5F9PxptDViXmPTUcV9T5ZvXW0a8fspd7+nqSTt8aLcObUBaYnv2li30eDI4Ge
+/RWu5rnFham/AYK5vVs=
+=/O83
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rinrinrin4046
+
+==================================================================
